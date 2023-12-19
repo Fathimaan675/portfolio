@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300;0,400;1,400&family=Oswald:wght@200&family=Satisfy&family=Signika:wght@700&display=swap');
+  /* body{
+   
+   
+     
+      background: rgb(55,46,128);
+    background: linear-gradient(90deg, rgba(55,46,128,1) 0%, rgba(34,23,86,1) 21%, rgba(29,24,77,0.9893207282913166) 47%, rgba(34,26,93,1) 62%, rgba(50,25,110,1) 75%, rgba(44,26,104,1) 86%, rgba(10,5,10,1) 100%);   
+}   */
+/* #q1{
+    color: aliceblue;
+    font-size: 100px;
+    margin-top: 500px;
+    width: 1000px;
+    height: 500px;
+    margin-left: 500px;
+    display: flex;
+
+} 
+.q2{
+    margin-top: 500px;
+    width: 1000px;
+    height: 500px;
+    margin-left: 500px;
+    display: flex;
+}  */
+#q4{
+    color: white;
+    /* font-family: 'Merriweather Sans', sans-serif; */
+    
+}
+span{
+    color: yellow;
+  }
+ 
+.q6{
+    
+    font-size: xx-large;
+    /* text-align: center; */
+   padding: 2px;
+    
+}
+.q7{
+    height: 400px;
+     width: 100%;
+     border-radius:30px 30px 30px 30px
+     
+}
+    
+.q9{
+    background-color: rgba(19, 18, 18, 0.859);
+    height: 120px;
+    width: 100%;
+    color: yellow;
+    text-align: center;
+    line-height: 3.0;
+    
+}
+.q8{
+    background-color:rgba(5, 4, 4, 0.929);
+     
+}
+.q12{
+    
+        padding:auto;
+        margin:auto;
+        text-align:centre;
+}
+.q14{
+    padding:auto;
+    margin:auto;
+    text-align:centre;
+   
+}
+.q13{
+    width: 100%;
+    height: 20px;
+    
+        background-repeat: no-repeat;
+        background-position: 50% 50%;
+        background-size: cover;
+        width: 300px;
+        height: 300px;
+      
+}
+.q13:hover{
+    color: grey;
+}
+/* #q15{
+    height: 1000px;
+    width: 100%;
+    display: flex;
+    background-color: rgba(240, 255, 255, 0);
+     
+     background:no-repeat url(https://tse3.mm.bing.net/th?id=OIP.8bQP-WF6Tc-b_BFe9vJ0tgHaEK&pid=Api&P=0&h=180); 
+} */
+.q16{
+    height: 1000px;
+    width: 100%;
+}
+.c{
+    width: 100%;
+    height: 900px;
+   
+        box-shadow: inset 0px 0px 10px rgba(53, 39, 39, 0.5);
+      
+}
+#h2{
+ /* text-align: center; */
+
+margin-bottom: 80px;
+font-size: 60px;
+padding:auto;
+    /* margin:auto; */
+    text-align:centre;
+    
+ 
+
+}
+#q17{
+   height: 200px; 
+}
+.c2{
+    background-color: rgb(35, 29, 29);
+    height: 700px;
+    width: 100%;
+}
